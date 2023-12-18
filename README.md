@@ -30,7 +30,7 @@ In this tutorial, we observe how to install Hyper-V and create a virtual machine
 <img src="https://imgur.com/aAyXcl2.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Assuming that you have already created a virtual machine in Microsoft Azure, login to the virtual machine by using remote desktop connection (Windows) or Microsoft desktop (Mac).
+Assuming that you have already created a virtual machine in Microsoft Azure, login to the virtual machine by using a remote desktop connection (Windows) or Microsoft desktop (Mac).
 </p>
 <br />
 <h2>Enable Hyper-V in Windows</h2>
@@ -38,7 +38,7 @@ Assuming that you have already created a virtual machine in Microsoft Azure, log
 <img src="https://imgur.com/eK3Yw94.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, navigate to the "Control Panel" --> Click on "Programs" --> Click on "Turn Windows Features On or Off" --> Click on "Hyper-V" and ensure that each box is checked. Click Ok to turn the feature on. This will prompt the virtual machine to restart.
+Next, navigate to the "Control Panel" --> Click on "Programs" --> Click on "Turn Windows Features On or Off" --> Click on "Hyper-V" and ensure that each box is checked. Click OK to turn the feature on. This will prompt the virtual machine to restart.
 </p>
 <br />
 <h2>Download and Install Virtual Machine in Hyper-V</h2>
@@ -46,7 +46,7 @@ Next, navigate to the "Control Panel" --> Click on "Programs" --> Click on "Turn
 <img src="https://imgur.com/jHKAQgS.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once logging back in, open "Hyper-V Manager. Under Hyper-V Manager in the lleft hand corner, right-click on your computer name, hover over "New", and select "Virtual Machine"
+Once logging back in, open "Hyper-V Manager. Under Hyper-V Manager in the left hand corner, right-click on your computer name, hover over "New", and select "Virtual Machine"
 </p>
 <br />
 <h2>Download and Install Virtual Machine in Hyper-V (cont.)</h2>
@@ -70,7 +70,7 @@ Next, you can choose the generation of the machine, which supports either 32 or 
 <img src="https://imgur.com/4ucQRVe.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, you can assign memory to your virtual machine. You can check how much memory is left on the PC by navigating to “Task Manager.” In case, we have 13.5 GB available and can use less GBs due to speed and performance. You can enter as mush as you’d like, but no less than 32 MB.
+Next, you can assign memory to your virtual machine. You can check how much memory is left on the PC by navigating to “Task Manager.” In this case, we have 13.5 GB available and can use less GB due to speed and performance.
 </p>
 <br />
 <h2>Download and Install Virtual Machine in Hyper-V (cont.)</h2>
@@ -101,7 +101,7 @@ Next, you can choose to install the operating system now or later, since there i
 <img src="https://imgur.com/KgHducn.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once you have finished the installation wizard for the virtual machine, right click on the computer name under Hyper-V Manager and select “Quick Create” to choose an operating system.
+Once you have finished the installation wizard for the virtual machine, right-click on the computer name under Hyper-V Manager and select “Quick Create” to choose an operating system.
 </p>
 <br />
 <h2>Download and Install Virtual Machine in Hyper-V (cont.)</h2>
